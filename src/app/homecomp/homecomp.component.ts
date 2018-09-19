@@ -13,6 +13,7 @@ Total:number;
   constructor() { }
 
   ngOnInit() {
+    this.myFunction();
   }
 
   myFunction() {
